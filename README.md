@@ -3,7 +3,6 @@
 
 
 - 🌱 EstJavaScript
-- 📫 Contate-me no email: contatoluishenriique@gmail.com
 
 <div>
   <a href="https://github.com/LuisHenriique">
