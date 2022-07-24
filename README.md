@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando JavaScript
+- 🌱 studying JavaScript
 
 <div>
   <a href="https://github.com/LuisHenriique">
