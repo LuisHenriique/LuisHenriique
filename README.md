@@ -2,7 +2,7 @@
 
 
 
-- 🌱 studying C/Python
+- 🌱 studying C/C++
 
 <div>
   <a href="https://github.com/LuisHenriique">
