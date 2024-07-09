@@ -1,4 +1,4 @@
-# 👋 Hi, I'm LUis Henrique!
+# 👋 Hi, I'm Luis Henrique!
 
 👨🏽‍🎓 Studying Computer Science at the University of São Paulo<br/>
 💭 Currently learning about Data struct!<br/>
