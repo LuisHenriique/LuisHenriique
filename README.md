@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Luis Henrique!
 
 👨🏽‍🎓 Studying Computer Science at the University of São Paulo<br/>
-💭 Currently learning about Data Structures!<br/>
+💭 Currently learning about Python and OOP!<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisHenriique)](https://github.com/anuraghazra/github-readme-stats)
   
