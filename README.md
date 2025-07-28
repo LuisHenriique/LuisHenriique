@@ -1,19 +1,62 @@
-# 👋 Hi, I'm Luis Henrique!
+#  👨🏽‍💻 Luis Henrique
+**`Estudante de Ciência da computação`**
 
-👨🏽‍🎓 Studying Computer Science at the University of São Paulo<br/>
-💭 Currently learning about Python and OOP!<br/>
+Me chamo Luis Henrique, tenho 21 anos e sou de São Paulo. Atualmente estou cursando Ciência da Computação na Universidade de São Paulo. Sou um entusiasta da tecnologia e gosto muito de matemática.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisHenriique)](https://github.com/anuraghazra/github-readme-stats)
+<div> 
+  <a href="https://www.linkedin.com/in/luis-henrique-desenvolvedor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LuisHenrique) 
-
----
+</div>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+
+### 🤖 Linguagens e Tecnologias
+
+ 
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+
+<img 
+  align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+          
+
+<br/>
+<br/>
+
+### 📊 Estatísticas 
+
+<img 
+  align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=LuisHenriique&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" />
+
+
+<img 
+  align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriique&theme=tokyonight&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=7" />
+
