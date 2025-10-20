@@ -1,7 +1,7 @@
 #  👨🏽‍💻 Luis Henrique
 **`Estudante de Ciência da computação`**
 
-Me chamo Luis Henrique, tenho 21 anos e sou de São Paulo. Atualmente estou cursando Ciência da Computação na Universidade de São Paulo. Sou um entusiasta da tecnologia e gosto muito de matemática.
+Me chamo Luis Henrique, tenho 21 anos e sou de São Paulo. Atualmente estou cursando Ciência da Computação na Universidade de São Paulo. Sou um entusiasta da tecnologia, mais especificamente na área de ciência de dados, e gosto muito de matemática.
 
 <div> 
   <a href="https://www.linkedin.com/in/luis-henrique-desenvolvedor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
