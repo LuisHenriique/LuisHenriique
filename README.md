@@ -8,11 +8,6 @@ Me chamo Luis Henrique, tenho 21 anos e sou de São Paulo. Atualmente estou curs
   
 </div>
 
-
-
-### 🤖 Linguagens e Tecnologias
-
- 
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -88,13 +83,3 @@ Me chamo Luis Henrique, tenho 21 anos e sou de São Paulo. Atualmente estou curs
 />
 <br/>
 <br/>
-
-### 📊 Estatísticas 
-
-<img 
-  align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriique&theme=tokyonight&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=7" />
-
