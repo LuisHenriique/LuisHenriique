@@ -13,6 +13,8 @@ Me chamo Luis Henrique, tenho 21 anos e sou de São Paulo. Atualmente estou curs
 ### 🤖 Linguagens e Tecnologias
 
  
+### 🤖 Linguagens e Tecnologias
+
 <img 
     align="left" 
     alt="Git" 
@@ -21,6 +23,7 @@ Me chamo Luis Henrique, tenho 21 anos e sou de São Paulo. Atualmente estou curs
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -30,16 +33,59 @@ Me chamo Luis Henrique, tenho 21 anos e sou de São Paulo. Atualmente estou curs
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-
 <img 
-  align="left" 
-    alt="Python" 
-    title="Python"
+    align="left" 
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Haskell" 
+    title="Haskell"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
 <br/>
 <br/>
 
